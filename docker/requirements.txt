@@ -1,0 +1,10 @@
+numpy
+torch
+pytorch-ignite
+transformers==2.5.1
+tensorboardX==1.8
+jupyter
+scikit-learn
+pandas
+dill
+scipy
