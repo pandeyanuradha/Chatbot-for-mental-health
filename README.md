@@ -18,7 +18,7 @@ My research was related to the design approaches, namely, rule-based, retrieval-
 
 1. Rule-based Chatbots: A rule-based chatbot uses a simple rule-based mapping or pattern matching to select responses from sets of predefined responses. These systems don't produce any new text; instead, they choose an answer from a predetermined list.
 2. Retrieval-based Chatbots: A retrieval-based chatbot uses Machine Learning ensembles as heuristics for evaluation. Similar to rule-based chatbots, they do not generate new texts.
-3, Generative-based Chatbots: Generative models do not rely on predefined responses. They come up with new replies from scratch. Machine Translation techniques are typically used in generative models, but instead of translating from one language to another, we "translate" from input to output (response). Generative models are used for the creation because they learn from scratch.
+3. Generative-based Chatbots: Generative models do not rely on predefined responses. They come up with new replies from scratch. Machine Translation techniques are typically used in generative models, but instead of translating from one language to another, we "translate" from input to output (response). Generative models are used for the creation because they learn from scratch.
 
 
 ## Overview of the bots trained 
