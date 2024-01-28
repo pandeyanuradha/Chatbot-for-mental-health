@@ -4,7 +4,7 @@
 - Fixed issues related to Python scripts not working due to outdated library versions and methods
 - Added requirements.txt for easy installation of dependencies 
 
-Before you run the scripts, ensure you have Python version <=3.8 installed (preferably Python 3.8; required for installing some libraries like Tensorflow) 
+Before you run the scripts, ensure you have Python version <=3.8 installed (preferably Python 3.8; required for installing some libraries like Tensorflow). 
 
 This project was done for a research project under a professor at my university with a self-scraped dataset.
 The dataset we used is confidential; hence, I have used a sample Kaggle dataset. I decided to make the Scripts open-source to make a compilation of different **chatbots from scratch in Python** since I struggled with such resources during my research. 
